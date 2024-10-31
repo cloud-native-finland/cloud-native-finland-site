@@ -1,13 +1,13 @@
 ---
-title: KCD Helsinki 2025
+title: Cloud Native Finland
 toc_hide: true
 ---
 
 <div class="row mt-5 mb-3">
     <div class="col-lg-6">
         <div class="lead">
-        Kubernetes Community Days is a one day event about cloud native in Helsinki.
-        In 2025 the KCD will take place on May 6 in Valilla.
+        Cloud Native Finland is a non for profit organisation for promoting open source cloud native technologies in
+        Finland.
         </div>
     </div>
     <div class="col-lg-6">

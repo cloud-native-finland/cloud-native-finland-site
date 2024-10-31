@@ -5,12 +5,12 @@ toc_hide: true
 list_pages: true
 menu:
   main:
-    weight: 40
-description: About KCD Helsinki 2025
+    weight: 10
+description: About Cloud Native Finland 
 ---
 
-## Who attends
+## Who we are 
 
-## Why attend?
+## Wow to join
 
-## Sponsors
+## Contacts

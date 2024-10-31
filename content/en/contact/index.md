@@ -1,7 +1,7 @@
 ---
 title: Contact us
 linkTitle: Contact
-description: How to contact the organizers?
+description: How to contact us?
 toc_hide: true
 exclude_search: true
 menu:
@@ -16,4 +16,6 @@ aliases:
 ## Contact us
 
 
-## Social media everything
+## Social media
+
+* Follow us on LinkedIn.

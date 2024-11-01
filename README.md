@@ -17,11 +17,14 @@ Configuration is set in [config.toml](./config.toml).
 To set up a local dev environment make sure you have [npm](https://www.npmjs.com/) installed, then run the following:
 
 ```sh
-git clone git@github.com:cncf/tag-env-sustainability.git
-cd tag-env-sustainability
-cd website
+git clone git@github.com:cloud-native-finland/cloud-native-finland-site.git
+cd cloud-native-finland-site
 npm install
 ```
 
 Then run the site using `npm run serve`. To have the site run locally with a functioning local search, run
 `npm run serve:with-pagefind`.
+
+## License
+
+Licensed under the [Creative Commons Attribution 4.0 International license](LICENSE)

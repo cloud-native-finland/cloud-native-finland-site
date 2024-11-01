@@ -1,5 +1,7 @@
 # Cloud Native Finland Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/61012e8d-a38d-457e-b1e4-6dc9dbb87934/deploy-status)](https://app.netlify.com/sites/cloud-native-finland/deploys)
+
 This directory contains a [Hugo](https://gohugo.io) web site published via [Netlify](https://www.netlify.com/) to
 <https://tag-env-sustainability.cncf.io/>.
 

@@ -17,8 +17,8 @@ toc_hide: true
 
 # Mission
 
-Our mission is to promite cloud native technologies in Finland by sharing knowledge and create space for technologists
-to shair their experiences and ideas.
+Our mission is to promote cloud native technologies in Finland by sharing knowledge and create space for technologists
+to share their experiences and ideas.
 
 # What we do?
 

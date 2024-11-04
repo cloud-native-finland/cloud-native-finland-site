@@ -13,4 +13,4 @@ menu:
 
 ## Social media
 
-* Follow [KCD Helsinki LinkedIn](https://www.linkedin.com/company/kcd-helsinki/about/).
+* Follow [KCD Helsinki LinkedIn](https://www.linkedin.com/company/kcd-helsinki/).

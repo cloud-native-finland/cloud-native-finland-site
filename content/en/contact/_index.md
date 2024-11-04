@@ -10,6 +10,10 @@ menu:
 
 ## Contact us
 
+* [Cloud Native Finland Board](mailto:board@cloudnativefinland.org)
+* [KCD organizers](mailto:kcd-organizers@cloudnativefinland.org)
+
+
 
 ## Social media
 

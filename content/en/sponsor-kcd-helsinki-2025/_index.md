@@ -14,7 +14,7 @@ description: Sponsor KCD Helsinki 2025!
 We’re organizing the first-ever Kubernetes Community Days (KCD) conference in Helsinki, and it’s happening on
 **May 6, 2025**, in **Helsinki**! This event is part of the global KCD program, supported by the Cloud Native Computing
 Foundation (CNCF), and is a big step forward in building a stronger cloud-native community here in Finland. Our
-inclusion in the program has been officially announced here.
+inclusion in the program has been officially announced [here](https://www.cncf.io/blog/2024/10/30/mark-your-calendars-here-come-the-2025-kubernetes-community-days/).
 
 Kubernetes and cloud native technologies are core to what we do, so this feels like the perfect opportunity
 to bring the community together to share ideas and learn from each other. We’ve also set up a non-profit association,

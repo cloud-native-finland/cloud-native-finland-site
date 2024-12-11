@@ -34,6 +34,10 @@ By attending you also contribute back to the community and ensure it will contin
 We are looking for sponsors! Download the sponsorship prospectus from [here](https://github.com/cncf/kubernetes-community-days/blob/main/sponsor-resources/open-prospectuses/2025_Helsinki_SponsorProspectus_KCD.pdf). Contact the [KCD organizers](mailto:kcd-organizers@cloudnativefinland.org)
 for more information.
 
+### Speakers
+
+Our Call for Papers is open. [Submit your talk idea!](https://sessionize.com/kcd-helsinki-2025/) 
+
 ## Kubernetes and CNCF Finland Meetup
 
 We are proud organizers of the [Kubernetes and CNCF Finland Meetup](https://www.meetup.com/kubernetes-finland/).

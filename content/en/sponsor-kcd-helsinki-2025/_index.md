@@ -22,7 +22,8 @@ Cloud Native Finland ry, to ensure the event stays community-driven and transpar
 
 ## Sponsorship prospectus
 
-Get our [sponsorship prospectus](/files/KCD-Helsinki-2025-Sponsorship-Prospectus-v4.pdf)!
+Get our sponsorship prospectus [in PDF](/files/KCD-Helsinki-2025-Sponsorship-Prospectus.pdf) or as a
+[Canva link](https://www.canva.com/design/DAGSnFGh7nc/yPTICvkMDY2EYyEK-B-x1Q/view?utm_content=DAGSnFGh7nc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf56c4c8fe2)! 
 
 ## Detalis
 

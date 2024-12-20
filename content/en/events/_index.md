@@ -36,6 +36,10 @@ for more information.
 
 For more information about sponsosrships visit the [sponsor page!](../sponsor-kcd-helsinki-2025) 
 
+### Speakers
+
+Our Call for Papers is open. [Submit your talk idea!](https://sessionize.com/kcd-helsinki-2025/) 
+
 ## Kubernetes and CNCF Finland Meetup
 
 We are proud organizers of the [Kubernetes and CNCF Finland Meetup](https://www.meetup.com/kubernetes-finland/).

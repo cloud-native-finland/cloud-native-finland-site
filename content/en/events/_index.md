@@ -31,7 +31,7 @@ By attending you also contribute back to the community and ensure it will contin
 
 ### Sponsors
 
-We are looking for sponsors! Download the sponsorship prospectus from [here](https://github.com/cncf/kubernetes-community-days/blob/main/sponsor-resources/open-prospectuses/2025_Helsinki_SponsorProspectus_KCD.pdf). Contact the [KCD organizers](mailto:kcd-organizers@cloudnativefinland.org)
+We are looking for sponsors! Download the sponsorship prospectus from [here](/files/KCD-Helsinki-2025-Sponsorship-Prospectus.pdf). Contact the [KCD organizers](mailto:kcd-organizers@cloudnativefinland.org)
 for more information.
 
 For more information about sponsosrships visit the [sponsor page!](../sponsor-kcd-helsinki-2025) 

@@ -11,6 +11,8 @@ description: Events related to Cloud Native Finland
 
 ## Kubernetes Community Day Helsinki 2025
 
+![](/images/kcd-helsinki-logo-1-color-400x400.png)
+
 We will have a [KCD event](https://www.cncf.io/kcds/) in Helsinki on May 6, 2025! This community organized event
 brings together adopters and technologists from open source and cloud native communities to share experiences and ideas.
 This event is supported by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io).
@@ -38,7 +40,14 @@ For more information about sponsosrships visit the [sponsor page!](../sponsor-kc
 
 ### Speakers
 
-Our Call for Papers is open. [Submit your talk idea!](https://sessionize.com/kcd-helsinki-2025/) 
+Our Call for Papers is open. [Submit your talk idea!](https://sessionize.com/kcd-helsinki-2025/)
+
+### Logos
+
+* [Color Vertical](/images/kcd-helsinki-logo-1-color.png)
+* [Black and White Vertical](/images/kcd-helsinki-logo-1-bw.png)
+* [Color Horizontal](/images/kcd-helsinki-logo-2-color.png)
+* [Black and White Horizontal](/images/kcd-helsinki-logo-2-bw.png)
 
 ## Kubernetes and CNCF Finland Meetup
 

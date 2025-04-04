@@ -40,7 +40,10 @@ For more information about sponsosrships visit the [sponsor page!](../sponsor-kc
 
 ### Speakers
 
-Our Call for Papers is open. [Submit your talk idea!](https://sessionize.com/kcd-helsinki-2025/)
+KCD Helsinki will have internationally recognised keynote speakers and a wide range of local speakers from the whole
+nordic region.
+
+Schedule is available [here](https://kcdhelsinki.fi/schedule).
 
 ### Logos
 

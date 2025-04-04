@@ -15,4 +15,4 @@ We are a Ry (rekisteröity yhdistys) with the registration number (Y-tunnus)
 
 ## Current board members
 
-Current board members can be addressed on the board at cloudnativefinland.org email address .
+Current board members can be addressed on the board at cloudnativefinland.org email address.

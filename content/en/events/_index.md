@@ -45,6 +45,9 @@ nordic region.
 
 Schedule is available [here](https://kcdhelsinki.fi/schedule).
 
+### Cloud Native Finland Events Terms and Conditions
+You can find the Terms and Conditions [here](/files/Cloud-Native-Finland-Event-Terms-and-Conditions.pdf).
+
 ### Logos
 
 * [Color Vertical](/images/kcd-helsinki-logo-1-color.png)

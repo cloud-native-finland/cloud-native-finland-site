@@ -30,9 +30,7 @@ We are organizing the [Kubernetes and CNCF Finland Meetup](https://www.meetup.co
 
 ## Kubernetes Community Day (KCD)
 
-In 2025 we are organizing a
-[KCD in Helsinki](https://www.cncf.io/blog/2024/10/30/mark-your-calendars-here-come-the-2025-kubernetes-community-days/)
-on May 6. Mark your calendars!
+We organized [KCD Helsinki 2025](https://kcdhelsinki.fi/).
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfd5ycnwjL3DomG9KrrHYdEPKQ-WPbT9H1f9hfmG0wADwYqxhORC_zXBJVxnJxS1jdYDptL9-olDeAcEXfavW2iNSAi24rC-AOQ8xvCBjBtcmcvC3zZkjmyZagyg6chYPkRch8d7pifkWzXuLz7ji9OdgU?key=Fl6WBO6sHmKtazmnYtuwQA)
 

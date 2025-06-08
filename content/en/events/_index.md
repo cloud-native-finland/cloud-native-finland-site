@@ -29,6 +29,9 @@ nordic region.
 
 Schedule is available [here](https://kcdhelsinki.fi/schedule).
 
+Event photos are in [Flickr](https://www.flickr.com/photos/202858318@N07/albums/72177720326289156) and videos are on
+[YouTube](https://youtube.com/@cloudnativenordics?si=f3v5uUrnCIFgg_pG). 
+
 ### Cloud Native Finland Events Terms and Conditions
 You can find the Terms and Conditions [here](/files/Cloud-Native-Finland-Event-Terms-and-Conditions.pdf).
 

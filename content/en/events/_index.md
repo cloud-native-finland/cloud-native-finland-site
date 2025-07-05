@@ -29,10 +29,17 @@ nordic region.
 
 Schedule is available [here](https://kcdhelsinki.fi/schedule).
 
+### Photos and Videos
+
 Event photos are in [Flickr](https://www.flickr.com/photos/202858318@N07/albums/72177720326289156) and videos are on
 [YouTube](https://youtube.com/@cloudnativenordics?si=f3v5uUrnCIFgg_pG). 
 
+### Transparency report
+
+Transparency report of the event is [here](https://www.cncf.io/reports/kcd-helsinki-2025/).
+
 ### Cloud Native Finland Events Terms and Conditions
+
 You can find the Terms and Conditions [here](/files/Cloud-Native-Finland-Event-Terms-and-Conditions.pdf).
 
 ### Logos
@@ -41,5 +48,3 @@ You can find the Terms and Conditions [here](/files/Cloud-Native-Finland-Event-T
 * [Black and White Vertical](/images/kcd-helsinki-logo-1-bw.png)
 * [Color Horizontal](/images/kcd-helsinki-logo-2-color.png)
 * [Black and White Horizontal](/images/kcd-helsinki-logo-2-bw.png)
-
-

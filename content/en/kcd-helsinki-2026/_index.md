@@ -28,4 +28,6 @@ connection from Helsinki to the global network of KCDs and cloud-native communit
 
 Check our [sponsorship prospectus](https://www.canva.com/design/DAGyGVxjIwg/o3qiyrPTE6fA1fFA4srNjw/view?utm_content=DAGyGVxjIwg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc4247c13a)!
 
-Contact [sponsor at cloudnativefinland.org](mailto:sponsor@cloudnativefinland.org) in case of any queries.   
+Contact [sponsor at cloudnativefinland.org](mailto:sponsor@cloudnativefinland.org) in case of any queries related to
+sponsorships or [kcd-organizers at cloudnativefinland.org](mailto:kcd-organizers@cloudnativefinland.org) with general
+questions.   

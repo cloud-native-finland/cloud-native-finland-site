@@ -33,6 +33,9 @@ We are organizing the [Kubernetes and CNCF Finland Meetup](https://www.meetup.co
 We are working on [KCD Helsinki 2026](kcd-helsinki-2026).
 
 We organized [KCD Helsinki 2025](https://community.cncf.io/events/details/cncf-kcd-helsinki-presents-kcd-helsinki-2025/).
+See the [transparency report](https://www.cncf.io/reports/kcd-helsinki-2025/),
+[pictures](https://www.flickr.com/photos/202858318@N07/albums/72177720326289156) and
+[videos](https://youtube.com/@cloudnativenordics?si=f3v5uUrnCIFgg_pG).
 
 
 

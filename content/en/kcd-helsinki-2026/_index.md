@@ -31,3 +31,13 @@ Check our [sponsorship prospectus](https://www.canva.com/design/DAGyGVxjIwg/o3qi
 Contact [sponsor at cloudnativefinland.org](mailto:sponsor@cloudnativefinland.org) in case of any queries related to
 sponsorships or [kcd-organizers at cloudnativefinland.org](mailto:kcd-organizers@cloudnativefinland.org) with general
 questions.   
+
+## Call for Papers
+
+The Call for Proposals is now open! Share your experience and insights on open source and cloud-native technologies with a passionate, global community.
+
+We’re looking for talks covering Kubernetes, containers, observability, DevOps, platform engineering, and the open source ecosystem.
+
+Have a story, case study, or technical deep dive? Submit your proposal and help shape the future of cloud-native computing.
+
+[kcdhelsinki.fi/cfp](https://kcdhelsinki.fi/cfp)

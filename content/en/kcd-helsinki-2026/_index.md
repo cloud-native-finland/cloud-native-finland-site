@@ -13,6 +13,8 @@ description:
 
 KCD Helsinki 2026 will be organized on **May 20, 2026** in **Aalto Dipoli**.
 
+Check out the [**main KCD Helsinki 2026 site here**](https://community.cncf.io/events/details/cncf-kcd-helsinki-presents-kubernetes-community-days-helsinki-2026/)!
+
 On 20th of May, 2026 the Kubernetes and Cloud Native Community will gather in Helsinki for a one day technical
 conference full of exciting talks and plenty of opportunities for growing and networking. This technical conference will
 attract hundreds of engineers, IT professionals, architects and cloud native stakeholders who come from the local cloud

@@ -27,7 +27,7 @@ Current board members can be addressed on the board at cloudnativefinland.org em
 
 ## Cloud Native Finland Events Ab
 
-Cloud Native Finland Events Ab is fully owned subsidiary of Cloud Navive Finnand Ry responsible for executing the events organized by
+Cloud Native Finland Events Ab is fully owned subsidiary of Cloud Native Finland Ry responsible for executing the events organized by
 Cloud Native Finalnd Ry. Registration number (Y-tunnus) of Cloud Native Finland Events Ab is [3569835-7](https://tietopalvelu.ytj.fi/yritys/3569835-7).
 
 

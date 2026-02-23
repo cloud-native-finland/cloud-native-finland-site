@@ -36,10 +36,9 @@ questions.
 
 ## Call for Papers
 
-The Call for Proposals is now open! Share your experience and insights on open source and cloud-native technologies with a passionate, global community.
+Our call for papers is closed now. We are working on reviewing the great sessions you've submitted and we will
+publish the schedule on the 16th of March.
 
-We’re looking for talks covering Kubernetes, containers, observability, DevOps, platform engineering, and the open source ecosystem.
+### Cloud Native Finland Events Terms and Conditions and Privacy Policy
 
-Have a story, case study, or technical deep dive? Submit your proposal and help shape the future of cloud-native computing.
-
-[kcdhelsinki.fi/cfp](https://kcdhelsinki.fi/cfp)
+You can find the Terms and Conditions of our events [here](/files/Cloud-Native-Finland-Event-Terms-and-Conditions.pdf) and the Privacy Policy [here](/files/Cloud-Native-Finland-Privacy-Policy.pdf). 

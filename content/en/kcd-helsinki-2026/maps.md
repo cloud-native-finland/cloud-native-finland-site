@@ -2,8 +2,8 @@
 
 ### Ground floor
 
-![](/images/kcdh2026-map-upper.png)
+![](/images/kcdh2026-map-ground.png)
 
 ### Upper floor
 
-![](/images/kcdh2026-map-ground.png)
+![](/images/kcdh2026-map-upper.png)

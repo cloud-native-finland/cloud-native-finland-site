@@ -33,7 +33,7 @@ KCD Helsinki 2026, will be on May 20 in Aalto Dipoli. More information about the
 
 ###  2025
 
-The first ever KCD Helsinki was organized on May 6, 2025 in the OP headquoters.
+The first ever KCD Helsinki was organized on May 6, 2025 in the OP headquarters.
 
 ### Photos and Videos
 

@@ -1,4 +1,4 @@
-## Venue maps for KCD Helsinki 2026
+## Venue maps for KCD Helsinki 2027
 
 ### Ground floor
 

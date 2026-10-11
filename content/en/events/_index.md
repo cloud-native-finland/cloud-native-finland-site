@@ -29,7 +29,7 @@ nordic region.
 
 ### 2026
 
-KCD Helsinki 2026, will be on May 20 in Aalto Dipoli. More information about the event in [kcdhelsinki.fi](https://kcdhelsinki.fi)
+KCD Helsinki 2026, was organized on May 20 in Aalto Dipoli. More information about the event in [kcdhelsinki.fi](https://kcdhelsinki.fi)
 
 ###  2025
 

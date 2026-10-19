@@ -13,10 +13,17 @@ description:
 
 KCD Helsinki 2027 will be organized on **May 19, 2027** in **Aalto Dipoli**.
 
-On 19th of May, 2026 the Kubernetes and Cloud Native Community will gather in Helsinki for a one day technical
+On 19th of May, 2027 the Kubernetes and Cloud Native Community will gather in Helsinki for a one day technical
 conference full of exciting talks and plenty of opportunities for growing and networking. This technical conference will
 attract hundreds of engineers, IT professionals, architects and cloud native stakeholders who come from the local cloud
 native community as well as international speakers and attendees.
+
+## Sponsor KCD Helsinki 2027!
+
+Sponsoring KCD Helsinki is a great tooportunity to show your support the local cloud native community and open source.
+If you are interested in sponsoring us please check the [sponsorship prospectus](https://kcdhelsinki.fi/sponsor) or 
+mail us on sponsor AT cloudnativefinland.org.
+
 
 ### Cloud Native Finland Events Terms and Conditions and Privacy Policy
 
